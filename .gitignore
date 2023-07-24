@@ -10,7 +10,7 @@
 *.ear
 
 # IntelliJ IDEA Files #
-.idea/
+.idea/*
 *.iml
 *.ipr
 *.iws
