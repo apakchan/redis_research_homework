@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="redis_search_homework" />
+        <module name="redis_research_homework" />
       </profile>
     </annotationProcessing>
   </component>
